@@ -1,0 +1,36 @@
+# Compiled object files
+*.o
+*.d
+*.su
+
+# Generated firmware files
+*.elf
+*.hex
+*.eep
+*.map
+*.lst
+*.lss
+*.sym
+
+# Build directories
+build/
+Software/build/
+out/
+Software/out/
+
+# VS Code caches
+.vscode/ipch/
+.cache/
+
+# Computer-specific VS Code settings
+.vscode/settings.json
+.vscode/c_cpp_properties.json
+
+# Temporary and operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.swp
+*.swo
+*.tmp
