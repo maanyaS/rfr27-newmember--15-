@@ -17,6 +17,7 @@ build/
 Software/build/
 out/
 Software/out/
+bin/
 
 # VS Code caches
 .vscode/ipch/
